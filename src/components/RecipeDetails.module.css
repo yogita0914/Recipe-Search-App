@@ -1,0 +1,33 @@
+.container {
+    padding: 16px;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+    margin-top: 16px;
+    border-radius: 8px;
+  }
+  
+  .subtitle {
+    margin-top: 24px;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  
+  .list {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .link {
+    color: #3182ce;
+    text-decoration: underline;
+  }
+  
+  
